@@ -15,7 +15,7 @@ A comprehensive automated reconnaissance pipeline tool designed specifically for
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/ayushxoxo/GhostRecon-
    cd recon-pipeline
    ```
 
@@ -285,3 +285,4 @@ If you encounter issues:
 1. Check the troubleshooting section
 2. Review the installation logs
 3. Open an issue with detailed error information
+
